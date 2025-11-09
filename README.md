@@ -1,6 +1,6 @@
 # Instagram Follower Checker
 
-See who you follow on Instagram that doesn't follow you back.
+See who you follow on Instagram that don't follow you back.
 
 ## How to Use
 
@@ -21,3 +21,4 @@ See who you follow on Instagram that doesn't follow you back.
 5. **Run the script**  
 ```bash
 python3 main.py
+
