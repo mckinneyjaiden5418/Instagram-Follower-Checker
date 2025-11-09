@@ -21,8 +21,3 @@ See who you follow on Instagram that doesn't follow you back.
 5. **Run the script**  
 ```bash
 python3 main.py
-
-
-
-
-
