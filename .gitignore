@@ -1,6 +1,5 @@
 # Byte-compiled / optimized / DLL files
-followers_1.json
-following.json
+*.json
 __pycache__/
 *.py[codz]
 *$py.class
