@@ -10,16 +10,18 @@ See who you follow on Instagram that doesn't follow you back.
 
 2. **Extract the ZIP file you download**  
    Inside, navigate to:
-   connections/followers_and_following/  
+   connections/followers_and_following/
+     
    You should find files like:
    - `followers_1.json`
    - `following.json`
 
-3. **Place the files in the same folder as `main.py`**
+4. **Place the files in the same folder as `main.py`**
 
-4. **Run the script**  
+5. **Run the script**  
 ```bash
 python3 main.py
+
 
 
 
