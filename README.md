@@ -5,7 +5,7 @@ See who you follow on Instagram that doesn't follow you back.
 ## How to Use
 
 1. **Download your Instagram data**  
-   - Go to [this site.](https://accountscenter.instagram.com/info_and_permissions/dyi).  
+   - Go to [this site.](https://accountscenter.instagram.com/info_and_permissions/dyi)
    - Choose **JSON** format, then wait for Instagram to email you the download link.
 
 2. **Extract the ZIP file you download**  
@@ -20,3 +20,4 @@ You should find files like:
 4. **Run the script**  
 ```bash
 python3 main.py
+
