@@ -9,9 +9,9 @@ See who you follow on Instagram that doesn't follow you back.
    - Choose **JSON** format, then wait for Instagram to email you the download link.
 
 2. **Extract the ZIP file you download**  
-   Inside, navigate to:
-   connections/followers_and_following/
-You should find files like:
+   Inside, navigate to:  
+   connections/followers_and_following/  
+   You should find files like:
    - `followers_1.json`
    - `following.json`
 
@@ -20,5 +20,6 @@ You should find files like:
 4. **Run the script**  
 ```bash
 python3 main.py
+
 
 
