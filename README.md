@@ -6,7 +6,7 @@ See who you follow on Instagram that don't follow you back.
 
 1. **Download your Instagram data**  
    - Go to [this site.](https://accountscenter.instagram.com/info_and_permissions/dyi)
-   - Choose **JSON** format, then wait for Instagram to email you the download link.
+   - Choose **JSON** format and **All time** date range, then wait for Instagram to email you the download link.
 
 2. **Extract the ZIP file you download**  
    Inside, navigate to:
